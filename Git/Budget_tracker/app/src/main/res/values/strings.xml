@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BudgetTracker</string>
+    <string name="intro_heading">Manage your daily life expenses</string>
+    <string name="intro_content">Take charge of your finances with our budget tracker app. Track expenses, set goals, and achieve financial freedom effortlessly.</string>
+</resources>
